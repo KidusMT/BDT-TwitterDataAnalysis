@@ -1,6 +1,8 @@
 # BDT-TwitterDataAnalysis
 Big Data Technology: Using `Apache Kafka`, `Apache Zookeeper`, `Apache Spark`, `Apache Hive`, `Apache Hadoop` to process Twitter Data
 
+![image](https://user-images.githubusercontent.com/18373774/192491833-117c0e22-c880-4774-84ac-068e22a0dcde.png)
+
 ```shell
 ### Order of Execusion
 1. zookeeper
