@@ -43,3 +43,5 @@ sh: netstat -anp | grep 10000 (troubleshoot network port)
 pwd: /home/kidusmt/Desktop/BDT-FinalProject/derby/bin
 sh: startNetworkServer (starts thrift server port for connection)
 ```
+
+Video Link to Project Demo: https://youtu.be/Z2jDddpdl7k
